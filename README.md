@@ -1,2 +1,2 @@
 # BauMax
-this is the dev of for PBI demo
+this is the dev for PBI demo
